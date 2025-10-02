@@ -4,7 +4,9 @@
 
 **SPACE PLAGYL** é um jogo de tiro espacial (Space Shooter) com estética **Retro**, desenvolvido integralmente em **C++** utilizando apenas o framework **Raylib**.
 
-Este projeto foi criado por Giovani Giachini com o principal objetivo de estudar e aplicar lógicas de jogos e estruturas de dados diretamente no código.
+O **Objetivo** é destruir **10** meteoros sem ser atingido por eles, e depois derrotar o **Chefe** final, após isso, o jogo recomeça e sua nave ganha **+1 de velocidade de movimento e do tiro** para cada vez que derrotar o Chefe.
+
+Este projeto foi criado por **Giovani Giachini** com o principal objetivo de estudar e aplicar lógicas de jogos e estruturas de dados diretamente no código.
 
 
 ![tambspace](https://github.com/user-attachments/assets/d2601a5c-483e-4fc2-84f0-7ff7d20372d6)
