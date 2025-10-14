@@ -26,7 +26,6 @@ Você não precisa compilar o jogo! Basta seguir estes passos:
 
 ## 🕹 Controles
 
-| Tecla           | Função |
 | **WASD**   | Movimentação da Nave |
 | **SPACE**   | Confirmar / Atirar |
 | **P**         | Pausar o Jogo |
@@ -43,4 +42,6 @@ Você não precisa compilar o jogo! Basta seguir estes passos:
 
 ## 📝 Licença
 
-Este projeto está licenciado sob a [MIT]. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto é de código aberto. Sinta-se à vontade para usar, modificar e distribuir.
+
+Feito por [Giovani Giachini / Jivanis]
