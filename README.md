@@ -26,7 +26,7 @@ You don't need to compile the game! Just follow these steps:
 
 ---
 
-## Controles
+## Controls
 
 | Action | Button |
 | :--- | :---: |
