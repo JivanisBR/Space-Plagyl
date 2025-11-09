@@ -29,7 +29,7 @@ You don't need to compile the game! Just follow these steps:
 ## 🕹 Controls
 
 | Action | Button |
-| :--- | |:--- |
+| :--- | |:---: |
 | Ship Movement || **W** / **A** / **S** / **D** |
 | Shoot || **Espace** |
 | Visual Turbo || **Left Shift** |
