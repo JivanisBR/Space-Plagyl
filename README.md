@@ -31,7 +31,7 @@ You don't need to compile the game! Just follow these steps:
 | Action | Button |
 | :--- | :---: |
 | Ship Movement | **W** / **S** / **A** / **D** | 
-| Shoot | **Espace** | 
+| Shoot | **Space** | 
 | Visual Turbo | **Left Shift** |
 | Pause | **P** |
 |Return | **Enter** |
