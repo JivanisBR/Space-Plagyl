@@ -30,12 +30,12 @@ You don't need to compile the game! Just follow these steps:
 
 | Action | Button |
 | :--- | :---: |
-| Mover Esquerda/Direita | **A** / **D** | 
-| Pular | **W** | 
-| Agachar | **S** |
-| Atirar | **Espaço** | 
-| Emote | **Q** |
-| Pausar | **P** |
+| Ship Movement | **W** / **S** / **A** / **D** | 
+| Shoot | **Espace** | 
+| Visual Turbo | **Left Shift** |
+| Pause | **P** |
+|Return | **Enter** |
+| Quick Exit | **ESC** |
 
 ---
 
