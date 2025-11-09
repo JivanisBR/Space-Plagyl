@@ -28,12 +28,13 @@ You don't need to compile the game! Just follow these steps:
 
 ## 🕹 Controls
 
-| **WASD**   | Ship Movement |
-| **SPACE**   | Confirm / Shoot |
-| **P**         | Pause |
-| **Left Shift** | Visual Turbo |
-| **ENTER**  | Back |
-| **ESC** | Quick Exit
+| Action |
+| :--- |
+| Ship Movement | **W** / **A** / **S** / **D** |
+| Shoot | **Espace** |
+| Visual Turbo | **Left Shift** |
+| Pause | **P** |
+| Quick Exit | **ESC** |
 
 ---
 
