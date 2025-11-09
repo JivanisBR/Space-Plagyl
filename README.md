@@ -30,11 +30,11 @@ You don't need to compile the game! Just follow these steps:
 
 | Action |
 | :--- |
-| Ship Movement | **W** / **A** / **S** / **D** |
-| Shoot | **Espace** |
-| Visual Turbo | **Left Shift** |
-| Pause | **P** |
-| Quick Exit | **ESC** |
+| Ship Movement || **W** / **A** / **S** / **D** |
+| Shoot || **Espace** |
+| Visual Turbo || **Left Shift** |
+| Pause || **P** |
+| Quick Exit || **ESC** |
 
 ---
 
