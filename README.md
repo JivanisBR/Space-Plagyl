@@ -1,47 +1,51 @@
 🚀 SPACE PLAGYL 🚀
 
-## Sobre o Jogo
+## About The Game
 
-**SPACE PLAGYL** é um jogo de tiro espacial (Space Shooter) com estética **Retro**, desenvolvido integralmente em **C++** utilizando apenas o framework **Raylib**.
+**SPACE PLAGYL** is a **Retro aesthetic Space Shooter** game, developed entirely in **C++** using only the **Raylib** framework.
 
-O **Objetivo** é destruir **10** meteoros sem ser atingido por eles, e depois derrotar o **Chefe** final, após isso, o jogo recomeça e sua nave ganha **+1 de velocidade de movimento e do tiro** para cada vez que derrotar o Chefe.
+The **Objective** is to destroy **10 meteors** without being hit, and then defeat the **final Boss**. After that, the game restarts, and your ship gains **+1 movement** and **shot speed** for each time you defeat the Boss.
 
-Este projeto foi criado por **Giovani Giachini** com o principal objetivo de estudar e aplicar lógicas de jogos e estruturas de dados diretamente no código.
+It was implemented a **procedural stars and nebulas generation** with a **particles density choice**, to priorize **visuals**, **performance** or **equillibrium**.
+
+This project was created by **Giovani Giachini** with the main goal of studying and applying **game logic** and **data structures** directly in code.
 
 
 ![tambspace](https://github.com/user-attachments/assets/d2601a5c-483e-4fc2-84f0-7ff7d20372d6)
 
 
-## 🎮 Como Jogar (Instalação e Execução)
+## 🎮 How To Play (Installation and Execution)
 
-Você não precisa compilar o jogo! Basta seguir estes passos:
+You don't need to compile the game! Just follow these steps:
 
-1.  **Baixe o Repositório:** Clique no botão verde "**Code**" no topo desta página e escolha "**Download ZIP**".
-2.  **Extraia:** Descompacte o arquivo ZIP em qualquer lugar do seu computador.
-3.  **Execute:** Dentro da pasta, clique duas vezes no arquivo executável chamado `space_plagyl.exe` (ou apenas `space_plagyl`).
+1.  **Download the Repository:** Click the green **"Code"** button at the top of this page and select **"Download ZIP"**.
+2.  **Extract:** Unzip the ZIP file anywhere on your computer.
+3.  **Run:** Inside the folder, double-click the **executable** file named **SPACE_PLAGYL.exe** (or just SPACE_PLAGYL).
 
-**Pronto!** O jogo deve iniciar imediatamente.
-
----
-
-## 🕹 Controles
-
-| **WASD**   | Movimentação da Nave |
-| **SPACE**   | Confirmar / Atirar |
-| **P**         | Pausar o Jogo |
-| **ENTER**  | Voltar |
+**Done!** The game should start immediately.
 
 ---
 
-## 👥 Créditos
+## 🕹 Controls
 
-* **Desenvolvimento e Código:** Giovani Giachini
-* **Framework Principal:** [Raylib](https://www.raylib.com/) (Um projeto de Ramon Santamaria)
+| **WASD**   | Ship Movement |
+| **SPACE**   | Confirm / Shoot |
+| **P**         | Pause |
+| **Left Shift** | Visual Turbo |
+| **ENTER**  | Back |
+| **ESC** | Quick Exit
 
 ---
 
-## 📝 Licença
+## 👥 Credits
 
-Este projeto é de código aberto. Sinta-se à vontade para usar, modificar e distribuir.
+* **Development and Code:** Giovani Giachini
+* **Main Framework:** [Raylib](https://www.raylib.com/) (A Project by Ramon Santamaria)
 
-Feito por [Giovani Giachini / Jivanis]
+---
+
+## 📝 Licence
+
+This Project is **open code**. Feel free to use, modify and distribute.
+
+Made by **[Giovani Giachini / Jivanis]**
