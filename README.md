@@ -1,4 +1,4 @@
-🚀 SPACE PLAGYL 🚀
+## 🚀 SPACE PLAGYL 🚀
 
 ## About The Game
 
