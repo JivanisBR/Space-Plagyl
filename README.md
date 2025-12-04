@@ -20,7 +20,7 @@ You don't need to compile the game! Just follow these steps:
 
 1.  **Download the Repository:** Click the green **"Code"** button at the top of this page and select **"Download ZIP"**.
 2.  **Extract:** Unzip the ZIP file anywhere on your computer.
-3.  **Run:** Inside the folder, double-click the **executable** file named **SPACE_PLAGYL.exe** (or just SPACE_PLAGYL).
+3.  **Run:** Inside the folder, open the **bin** folder, then double-click the **executable** file named **SPACE_PLAGYL.exe** (or just SPACE_PLAGYL).
 
 **Done!** The game should start immediately.
 
@@ -48,6 +48,6 @@ You don't need to compile the game! Just follow these steps:
 
 ## 📝 Licence
 
-This Project is **open code**. Feel free to use, modify and distribute.
+This Project is **open source**. Feel free to use, modify and distribute.
 
 Made by **[Giovani Giachini / Jivanis]**
